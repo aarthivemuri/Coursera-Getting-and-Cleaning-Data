@@ -51,8 +51,8 @@ The set of variables that were estimated from these signals that are present in 
 
 **Categorical Variables:**
 
-Subject_id - ID of the test subject 
-Activity - Type of the activity performed when the measurements were taken
+- Subject_id - ID of the test subject 
+- Activity - Type of the activity performed when the measurements were taken
 
 **Continuous variables:**
 
