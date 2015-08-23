@@ -56,7 +56,7 @@ The set of variables that were estimated from these signals that are present in 
 
 **Continuous variables:**
 
-      - tBodyAcc-mean()-X
+- tBodyAcc-mean()-X
 - tBodyAcc-mean()-Y
 - tBodyAcc-mean()-Z
 - tBodyAcc-std()-X
